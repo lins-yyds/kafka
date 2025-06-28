@@ -1,0 +1,2 @@
+# kafka
+bitnami/kafka:sha256-6824a16c541ab05ff28f3da00881ea6d288a065520885e1dcc66a40c66466a7f
